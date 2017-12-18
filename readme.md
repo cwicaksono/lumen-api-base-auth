@@ -9,3 +9,6 @@ Di repository ini saya menambahkan phpunit untuk semua routes list yang ada pada
 Untuk menjalankan phpunit silahkan menggunakan perintah ini
 
 `./vendor/bin/phpunit`
+
+## Build Status
+[![Build Status](https://travis-ci.org/cwicaksono/lumen-api-base-auth.svg?branch=master)](https://github.com/cwicaksono/lumen-api-base-auth)
